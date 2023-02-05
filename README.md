@@ -1,2 +1,2 @@
-# Web-Programming
-Repository to contain all projects from my Web Programming Course at Georgia State University
+# Home Page Assignment
+Repository to contain all parts of my homepage assignment for Georgia State University.
